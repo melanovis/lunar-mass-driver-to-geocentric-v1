@@ -3,7 +3,7 @@ A comissioned series of simulations looking at finding roughly optimal configura
 
 epilepsy warning!
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/629668e7-5517-4004-bd64-078124b37b8c" width="80%" controls></video>
+  <video src="https://github.com/user-attachments/assets/f985f914-b7e8-4fed-aa86-9b800f83c2ca" width="80%" controls></video>
 </p>
 
 
