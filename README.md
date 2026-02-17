@@ -7,4 +7,5 @@ epilepsy warning!
 </p>
 
 
-This is code is of poor quality, I am not a good programmer, please forgive me.
+This is code is of poor quality, I am not a good programmer, please forgive me. 
+No LLM-derived code is used in this work.
